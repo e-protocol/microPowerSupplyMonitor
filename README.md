@@ -1,12 +1,10 @@
 ********************************************************************************
-<p font-size="16">Micro Power Supply 5v for Arduino/ESP32 projects</p><br/>
+<p style='font-size:18px'>Micro Power Supply 5v for Arduino/ESP32 projects</p><br/>
 <p float="left">
 <img src = "Project Photo/microPowerSupplyMonitor_pic1.jpg" width = "200" height = "400" />
-<img src = "Project Photo/microPowerSupplyMonitor_pic2.jpg" width = "200" height = "600" />
+<img src = "Project Photo/microPowerSupplyMonitor_pic2.jpg" width = "400" height = "400" />
 <img src = "Project Photo/microPowerSupplyMonitor Schematic.jpg" width = "400" height = "200" />
 </p>
-<br/>
-<br/>
 Created by E-Protocol
 https://github.com/e-protocol
 <br/>
