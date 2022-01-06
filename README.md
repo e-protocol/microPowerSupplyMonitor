@@ -10,7 +10,7 @@
 Created by E-Protocol
 https://github.com/e-protocol
 <br/>
-Specs: Arduino Nano
+Specs: Arduino
 Description: When you need an extra 5v power source, here comes a micro power supply. Very useful device
 to power Arduino or ESP32 breadboard projects. Also can power up whatever you need via usb or even charge
 your phone. Sometimes it needs to know the device's power demand, so it has a display to view such 
